@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemata.earlyprint.org/schemata/tei_earlyprint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="A00026">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Table of the cheiffest citties, and townes in England, as they ly [sic] from London and the distance of miles, howe a man may travill from London to any of them or from any of them to London.</title>
+   </titleStmt>
+   <editionStmt>
+    <edition>This text is an enriched version of the TCP digital transcription A00026 of text S3055 in the <ref target="http;//estc.bl.uk">English Short Title Catalog</ref> (STC 10021.7). Textual changes  and metadata enrichments aim at making the                             text more  computationally tractable, easier to read, and suitable for network-based collaborative                              curation by amateur and professional end users from many walks of life.  The text has been tokenized and linguistically annotated with <ref target="http://morphadorner.northwestern.edu/morphadorner/">MorphAdorner</ref>. The annotation includes standard spellings that support the display of a text in                             a standardized format that preserves archaic forms ('loveth', 'seekest').                              Textual changes aim at restoring the text the author or stationer meant to publish.</edition>
+    <respStmt>
+     <resp>This text has not been fully proofread</resp>
+     <name/>
+    </respStmt>
+   </editionStmt>
+   <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+   <publicationStmt>
+    <publisher>EarlyPrint Project</publisher>
+    <pubPlace>Evanston,IL, Notre Dame, IN, St. Louis, MO</pubPlace>
+    <date>2018</date>
+    <idno type="DLPS">A00026</idno>
+    <idno type="STC">STC 10021.7</idno>
+    <idno type="STC">ESTC S3055</idno>
+    <idno type="EEBO-CITATION">29900271</idno>
+    <idno type="OCLC">ocm 29900271</idno>
+    <idno type="VID">28115</idno>
+    <idno type="PROQUESTGOID">2240919244</idno>
+    <availability>
+     <p>
+            This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. This Phase I text is available for reuse, according to the terms of
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0 1.0 Universal</ref>
+            . The text can be copied, modified, distributed and performed, even for commercial purposes, all without asking permission.
+          </p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Early English books online.</title>
+   </seriesStmt>
+   <notesStmt>
+    <note>(EEBO-TCP ; phase 1, no. A00026)</note>
+    <note>Transcribed from: (Early English Books Online ; image set 28115)</note>
+    <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1861:62)</note>
+   </notesStmt>
+   <sourceDesc>
+    <biblFull>
+     <titleStmt>
+      <title>A Table of the cheiffest citties, and townes in England, as they ly [sic] from London and the distance of miles, howe a man may travill from London to any of them or from any of them to London.</title>
+     </titleStmt>
+     <extent>1 sheet ([1] p.).</extent>
+     <publicationStmt>
+      <publisher>Printed by Walter Dight, at the signe of the Harpe in shoo-lane,</publisher>
+      <pubPlace>London :</pubPlace>
+      <date>[ca. 1600]</date>
+     </publicationStmt>
+     <notesStmt>
+      <note>Woodcut with letterpress heading and imprint.</note>
+      <note>Date of publication suggested by STC (2nd ed.).</note>
+      <note>Reproduction of original in the Society of Antiquaries.</note>
+     </notesStmt>
+    </biblFull>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="eng">eng</language>
+   </langUsage>
+   <textClass>
+    <keywords scheme="http://authorities.loc.gov/">
+     <term>Great Britain -- Cities and towns.</term>
+     <term>Broadsides -- London (England) -- 16th century.</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <xenoData>
+   <ep:epHeader xmlns:ep="http://earlyprint.org/ns/1.0">
+    <ep:corpus>eebo</ep:corpus>
+    <ep:title>A Table of the cheiffest citties, and townes in England, as they ly [sic] from London and the distance of miles, howe a man may travill from London to</ep:title>
+    <ep:author>[no entry]</ep:author>
+    <ep:publicationYear>1600</ep:publicationYear>
+    <ep:creationYear/>
+    <ep:curator>
+     <ep:name/>
+    </ep:curator>
+    <ep:pageCount>1</ep:pageCount>
+    <ep:wordCount>508</ep:wordCount>
+    <ep:defectiveTokenCount>0</ep:defectiveTokenCount>
+    <ep:untranscribedForeignCount>0</ep:untranscribedForeignCount>
+    <ep:untranscribedMathCount>0</ep:untranscribedMathCount>
+    <ep:untranscribedMusicCount>0</ep:untranscribedMusicCount>
+    <ep:missingChunkCount>0</ep:missingChunkCount>
+    <ep:missingPagesCount>0</ep:missingPagesCount>
+    <ep:defectRate>0</ep:defectRate>
+    <ep:finalGrade>A</ep:finalGrade>
+    <ep:defectRangePerGrade>This text  has no known defects that were recorded as gap elements at the time of transcription. </ep:defectRangePerGrade>
+   </ep:epHeader>
+  </xenoData>
+  <revisionDesc>
+   <change>
+    <date>2007-08</date>
+    <label>TCP</label>
+        Assigned for keying and markup
+      </change>
+   <change>
+    <date>2007-08</date>
+    <label>Aptara</label>
+        Keyed and coded from ProQuest page images
+      </change>
+   <change>
+    <date>2007-09</date>
+    <label>Mona Logarbo</label>
+        Sampled and proofread
+      </change>
+   <change>
+    <date>2007-09</date>
+    <label>Mona Logarbo</label>
+        Text and markup reviewed and edited
+      </change>
+   <change>
+    <date>2008-02</date>
+    <label>pfs</label>
+        Batch review (QC) and XML conversion
+      </change>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="A00026-t">
+  <body xml:id="A00026-e0">
+   <div type="mileage_table" xml:id="A00026-e10">
+    <pb facs="tcp:28115:1" xml:id="A00026-001-a"/>
+    <head xml:id="A00026-e20">
+     <w lemma="a" pos="d" xml:id="A00026-001-a-0010">A</w>
+     <w lemma="table" pos="n1" xml:id="A00026-001-a-0020">Table</w>
+     <w lemma="of" pos="acp" xml:id="A00026-001-a-0030">of</w>
+     <w lemma="the" pos="d" xml:id="A00026-001-a-0040">the</w>
+     <w lemma="cheiff" pos="js" xml:id="A00026-001-a-0050">cheiffest</w>
+     <w lemma="city" pos="n2" reg="Cities" xml:id="A00026-001-a-0060">Citties</w>
+     <pc xml:id="A00026-001-a-0070">,</pc>
+     <w lemma="and" pos="cc" xml:id="A00026-001-a-0080">and</w>
+     <w lemma="town" pos="n2" reg="Towns" xml:id="A00026-001-a-0090">Townes</w>
+     <w lemma="in" pos="acp" xml:id="A00026-001-a-0100">in</w>
+     <w lemma="England" pos="nn1" xml:id="A00026-001-a-0110">England</w>
+     <pc xml:id="A00026-001-a-0120">,</pc>
+     <w lemma="as" pos="acp" xml:id="A00026-001-a-0130">as</w>
+     <w lemma="they" pos="pns" xml:id="A00026-001-a-0140">they</w>
+     <w lemma="lie" pos="vvb" reg="lie" xml:id="A00026-001-a-0150">ly</w>
+     <w lemma="from" pos="acp" xml:id="A00026-001-a-0160">from</w>
+     <w lemma="London" pos="nn1" xml:id="A00026-001-a-0170">London</w>
+     <pc xml:id="A00026-001-a-0180">,</pc>
+     <w lemma="and" pos="cc" xml:id="A00026-001-a-0190">and</w>
+     <w lemma="the" pos="d" xml:id="A00026-001-a-0200">the</w>
+     <w lemma="distance" pos="n1" xml:id="A00026-001-a-0210">distance</w>
+     <w lemma="of" pos="acp" xml:id="A00026-001-a-0220">of</w>
+     <w lemma="mile" pos="n2" xml:id="A00026-001-a-0230">miles</w>
+     <pc xml:id="A00026-001-a-0240">,</pc>
+     <w lemma="how" pos="crq" reg="how" xml:id="A00026-001-a-0250">howe</w>
+     <w lemma="a" pos="d" xml:id="A00026-001-a-0260">a</w>
+     <w lemma="man" pos="n1" xml:id="A00026-001-a-0270">man</w>
+     <w lemma="may" pos="vmb" xml:id="A00026-001-a-0280">may</w>
+     <w lemma="travill" pos="vvi" xml:id="A00026-001-a-0290">travill</w>
+     <w lemma="from" pos="acp" xml:id="A00026-001-a-0300">from</w>
+     <w lemma="London" pos="nn1" xml:id="A00026-001-a-0310">London</w>
+     <w lemma="to" pos="acp" xml:id="A00026-001-a-0320">to</w>
+     <w lemma="any" pos="d" xml:id="A00026-001-a-0330">any</w>
+     <w lemma="of" pos="acp" xml:id="A00026-001-a-0340">of</w>
+     <w lemma="they" pos="pno" xml:id="A00026-001-a-0350">them</w>
+     <w lemma="or" pos="cc" xml:id="A00026-001-a-0360">or</w>
+     <w lemma="from" pos="acp" xml:id="A00026-001-a-0370">from</w>
+     <w lemma="any" pos="d" xml:id="A00026-001-a-0380">any</w>
+     <w lemma="of" pos="acp" xml:id="A00026-001-a-0390">of</w>
+     <w lemma="they" pos="pno" xml:id="A00026-001-a-0400">them</w>
+     <w lemma="to" pos="acp" xml:id="A00026-001-a-0410">to</w>
+     <w lemma="London" pos="nn1" xml:id="A00026-001-a-0420">London</w>
+     <pc unit="sentence" xml:id="A00026-001-a-0430">.</pc>
+    </head>
+    <list xml:id="A00026-e30">
+     <head xml:id="A00026-e40">
+      <w lemma="north" pos="n1" xml:id="A00026-001-a-0440">NORTH</w>
+     </head>
+     <item xml:id="A00026-e50">
+      <list xml:id="A00026-e60">
+       <item xml:id="A00026-e70">
+        <w lemma="8." pos="crd" xml:id="A00026-001-a-0450">8.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0460"/>
+        <w lemma="york" pos="nn1" xml:id="A00026-001-a-0470">YORK</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0480">.</pc>
+       </item>
+       <item xml:id="A00026-e80">
+        <w lemma="12." pos="crd" xml:id="A00026-001-a-0490">12.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0500"/>
+        <w lemma="tadcaster" pos="nn1" xml:id="A00026-001-a-0510">Tadcaster</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0520">.</pc>
+       </item>
+       <item xml:id="A00026-e90">
+        <w lemma="7." pos="crd" xml:id="A00026-001-a-0530">7.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0540"/>
+        <w lemma="wentbridge" pos="nn1" xml:id="A00026-001-a-0550">Wentbridge</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0560">.</pc>
+       </item>
+       <item xml:id="A00026-e100">
+        <w lemma="18." pos="crd" xml:id="A00026-001-a-0570">18.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0580"/>
+        <w lemma="Doncaster" pos="nn1" xml:id="A00026-001-a-0590">Doncaster</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0600">.</pc>
+       </item>
+       <item xml:id="A00026-e110">
+        <w lemma="10." pos="crd" xml:id="A00026-001-a-0610">10.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0620"/>
+        <w lemma="tuxford" pos="nn1" xml:id="A00026-001-a-0630">Tuxford</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0640">.</pc>
+       </item>
+       <item xml:id="A00026-e120">
+        <w lemma="10." pos="crd" xml:id="A00026-001-a-0650">10.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0660"/>
+        <w lemma="nework" pos="n1" xml:id="A00026-001-a-0670">Nework</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0680">.</pc>
+       </item>
+       <item xml:id="A00026-e130">
+        <w lemma="16." pos="crd" xml:id="A00026-001-a-0690">16.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0700"/>
+        <w lemma="Grantham" pos="nn1" xml:id="A00026-001-a-0710">Grantham</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0720">.</pc>
+       </item>
+       <item xml:id="A00026-e140">
+        <w lemma="12." pos="crd" xml:id="A00026-001-a-0730">12.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0740"/>
+        <w lemma="Stamford" pos="nn1" xml:id="A00026-001-a-0750">Stamford</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0760">.</pc>
+       </item>
+       <item xml:id="A00026-e150">
+        <w lemma="9" pos="crd" reg="9" xml:id="A00026-001-a-0770">9.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0780"/>
+        <w lemma="stilton" pos="nn1" xml:id="A00026-001-a-0790">Stilton</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0800">.</pc>
+       </item>
+       <item xml:id="A00026-e160">
+        <w lemma="15." pos="crd" xml:id="A00026-001-a-0810">15.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0820"/>
+        <w lemma="Huntingdon" orig="Huntingtō" pos="nn1" reg="Huntingdon" xml:id="A00026-001-a-0830">Huntington</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0840">.</pc>
+       </item>
+       <item xml:id="A00026-e170">
+        <w lemma="13." pos="crd" xml:id="A00026-001-a-0850">13.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0860"/>
+        <w lemma="Roiston" pos="nn1" xml:id="A00026-001-a-0870">Roiston</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0880">.</pc>
+       </item>
+       <item xml:id="A00026-e180">
+        <w lemma="20" pos="crd" xml:id="A00026-001-a-0890">20</w>
+        <w lemma="ware" pos="n1" xml:id="A00026-001-a-0900">Ware</w>
+       </item>
+       <item xml:id="A00026-e190">
+        <figure xml:id="A00026-e200">
+         <head xml:id="A00026-e210">
+          <w lemma="LONDON" pos="nn1" xml:id="A00026-001-a-0910">LONDON</w>
+         </head>
+         <figDesc xml:id="A00026-e220">view of London</figDesc>
+        </figure>
+       </item>
+      </list>
+     </item>
+     <item xml:id="A00026-e230">
+      <list xml:id="A00026-e240">
+       <item xml:id="A00026-e250">
+        <w lemma="16." pos="crd" xml:id="A00026-001-a-0920">16.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0930"/>
+        <w lemma="Lincoln" pos="nn1" reg="LINCOLN" xml:id="A00026-001-a-0940">LINCOLNE</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0950">.</pc>
+       </item>
+       <item xml:id="A00026-e260">
+        <w lemma="8." pos="crd" xml:id="A00026-001-a-0960">8.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0970"/>
+        <w lemma="ancaster" pos="nn1" xml:id="A00026-001-a-0980">Ancaster</w>
+        <pc unit="sentence" xml:id="A00026-001-a-0990">.</pc>
+       </item>
+       <item xml:id="A00026-e270">
+        <w lemma="12." pos="crd" xml:id="A00026-001-a-1000">12.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1010"/>
+        <w lemma="Bichfeld" pos="nn1" xml:id="A00026-001-a-1020">Bichfeld</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1030">.</pc>
+       </item>
+       <item xml:id="A00026-e280">
+        <w lemma="12." pos="crd" xml:id="A00026-001-a-1040">12.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1050"/>
+        <w lemma="Stamford" pos="nn1" xml:id="A00026-001-a-1060">Stamford</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1070">.</pc>
+       </item>
+       <item xml:id="A00026-e290">
+        <w lemma="9" pos="crd" reg="9" xml:id="A00026-001-a-1080">9.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1090"/>
+        <w lemma="stilton" pos="nn1" xml:id="A00026-001-a-1100">Stilton</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1110">.</pc>
+       </item>
+       <item xml:id="A00026-e300">
+        <w lemma="15." pos="crd" xml:id="A00026-001-a-1120">15.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1130"/>
+        <w lemma="Huntingdon" pos="nn1" reg="Huntingdon" xml:id="A00026-001-a-1140">Huntington</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1150">.</pc>
+       </item>
+       <item xml:id="A00026-e310">
+        <w lemma="13." pos="crd" xml:id="A00026-001-a-1160">13.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1170"/>
+        <w lemma="Roiston" pos="nn1" xml:id="A00026-001-a-1180">Roiston</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1190">.</pc>
+       </item>
+       <item xml:id="A00026-e320">
+        <w lemma="8." pos="crd" xml:id="A00026-001-a-1200">8.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1210"/>
+        <w lemma="Ware" pos="n1" xml:id="A00026-001-a-1220">Ware</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1221">.</pc>
+        <pc unit="sentence" xml:id="A00026-001-a-1230"/>
+       </item>
+       <item xml:id="A00026-e330">
+        <w lemma="12." pos="crd" xml:id="A00026-001-a-1240">12.</w>
+        <w lemma="Waltham" pos="nn1" xml:id="A00026-001-a-1250">Waltham</w>
+       </item>
+       <item xml:id="A00026-e340">
+        <figure xml:id="A00026-e350">
+         <head xml:id="A00026-e360">
+          <w lemma="LONDON" pos="nn1" xml:id="A00026-001-a-1260">LONDON</w>
+         </head>
+         <figDesc xml:id="A00026-e370">view of London</figDesc>
+        </figure>
+       </item>
+      </list>
+     </item>
+     <item xml:id="A00026-e380">
+      <list xml:id="A00026-e390">
+       <item xml:id="A00026-e400">
+        <w lemma="6." pos="crd" xml:id="A00026-001-a-1270">6.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1280"/>
+        <w lemma="CAMBRIDGE" pos="nn1" xml:id="A00026-001-a-1290">CAMBRIDGE</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1300">.</pc>
+       </item>
+       <item xml:id="A00026-e410">
+        <w lemma="7." pos="crd" xml:id="A00026-001-a-1310">7.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1320"/>
+        <w lemma="Stow." pos="nn1" xml:id="A00026-001-a-1330">Stow.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1340"/>
+       </item>
+       <item xml:id="A00026-e420">
+        <w lemma="12." pos="crd" xml:id="A00026-001-a-1350">12.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1360"/>
+        <w lemma="barkwaye" pos="n1" xml:id="A00026-001-a-1370">Barkwaye</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1380">.</pc>
+       </item>
+       <item xml:id="A00026-e430">
+        <w lemma="8." pos="crd" xml:id="A00026-001-a-1390">8.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1400"/>
+        <w lemma="Ware" pos="n1" xml:id="A00026-001-a-1410">Ware</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1411">.</pc>
+        <pc unit="sentence" xml:id="A00026-001-a-1420"/>
+       </item>
+       <item xml:id="A00026-e440">
+        <w lemma="12" pos="crd" xml:id="A00026-001-a-1430">12</w>
+        <w lemma="Waltham" pos="nn1" xml:id="A00026-001-a-1440">Waltham</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1450">.</pc>
+       </item>
+       <item xml:id="A00026-e450">
+        <figure xml:id="A00026-e460">
+         <head xml:id="A00026-e470">
+          <w lemma="LONDON" pos="nn1" xml:id="A00026-001-a-1460">LONDON</w>
+         </head>
+         <figDesc xml:id="A00026-e480">view of London</figDesc>
+        </figure>
+       </item>
+      </list>
+     </item>
+    </list>
+    <list xml:id="A00026-e490">
+     <head xml:id="A00026-e500">
+      <w lemma="east" pos="n1" xml:id="A00026-001-a-1470">EAST</w>
+     </head>
+     <item xml:id="A00026-e510">
+      <list xml:id="A00026-e520">
+       <item xml:id="A00026-e530">
+        <w lemma="6." pos="crd" xml:id="A00026-001-a-1480">6.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1490"/>
+        <w lemma="NORWICH" pos="nn1" xml:id="A00026-001-a-1500">NORWICH</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1510">.</pc>
+       </item>
+       <item xml:id="A00026-e540">
+        <w lemma="4." pos="crd" xml:id="A00026-001-a-1520">4.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1530"/>
+        <w lemma="windham" pos="nn1" xml:id="A00026-001-a-1540">Windham</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1550">.</pc>
+       </item>
+       <item xml:id="A00026-e550">
+        <w lemma="10." pos="crd" xml:id="A00026-001-a-1560">10.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1570"/>
+        <w lemma="Atlebury" pos="nn1" xml:id="A00026-001-a-1580">Atlebury</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1590">.</pc>
+       </item>
+       <item xml:id="A00026-e560">
+        <w lemma="6." pos="crd" xml:id="A00026-001-a-1600">6.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1610"/>
+        <w lemma="Thetford" pos="nn1" xml:id="A00026-001-a-1620">Thetford</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1630">.</pc>
+       </item>
+       <item xml:id="A00026-e570">
+        <w lemma="10." pos="crd" xml:id="A00026-001-a-1640">10.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1650"/>
+        <w lemma="icklingham" pos="nn1" xml:id="A00026-001-a-1660">Icklingham</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1670">.</pc>
+       </item>
+       <item xml:id="A00026-e580">
+        <w lemma="22." pos="crd" xml:id="A00026-001-a-1680">22.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1690"/>
+        <w lemma="Newmarket" pos="nn1" xml:id="A00026-001-a-1700">Newmarket</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1710">.</pc>
+       </item>
+       <item xml:id="A00026-e590">
+        <w lemma="12." pos="crd" xml:id="A00026-001-a-1720">12.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1730"/>
+        <w lemma="barkwaye" pos="n1" xml:id="A00026-001-a-1740">Barkwaye</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1750">.</pc>
+       </item>
+       <item xml:id="A00026-e600">
+        <w lemma="8." pos="crd" xml:id="A00026-001-a-1760">8.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1770"/>
+        <w lemma="Ware" pos="n1" xml:id="A00026-001-a-1780">Ware</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1781">.</pc>
+        <pc unit="sentence" xml:id="A00026-001-a-1790"/>
+       </item>
+       <item xml:id="A00026-e610">
+        <w lemma="12." pos="crd" xml:id="A00026-001-a-1800">12.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1810"/>
+        <w lemma="Waltham" pos="nn1" xml:id="A00026-001-a-1820">Waltham</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1830">.</pc>
+       </item>
+       <item xml:id="A00026-e620">
+        <figure xml:id="A00026-e630">
+         <head xml:id="A00026-e640">
+          <w lemma="LONDON" pos="nn1" xml:id="A00026-001-a-1840">LONDON</w>
+         </head>
+         <figDesc xml:id="A00026-e650">view of London</figDesc>
+        </figure>
+       </item>
+      </list>
+     </item>
+     <item xml:id="A00026-e660">
+      <list xml:id="A00026-e670">
+       <item xml:id="A00026-e680">
+        <w lemma="6." pos="crd" xml:id="A00026-001-a-1850">6.</w>
+        <w lemma="yermouth" pos="n1" reg="YERMOUTH" xml:id="A00026-001-a-1860">YERMOVTH</w>
+       </item>
+       <item xml:id="A00026-e690">
+        <w lemma="10." pos="crd" xml:id="A00026-001-a-1870">10.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1880"/>
+        <w lemma="Lestoffe" pos="nn1" xml:id="A00026-001-a-1890">Lestoffe</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1900">.</pc>
+       </item>
+       <item xml:id="A00026-e700">
+        <w lemma="8." pos="crd" xml:id="A00026-001-a-1910">8.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1920"/>
+        <w lemma="Blyborow" pos="nn1" xml:id="A00026-001-a-1930">Blyborow</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1940">.</pc>
+       </item>
+       <item xml:id="A00026-e710">
+        <w lemma="8." pos="crd" xml:id="A00026-001-a-1950">8.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1960"/>
+        <w lemma="snaye-bridge" pos="n1" xml:id="A00026-001-a-1970">Snaye-bridge</w>
+        <pc unit="sentence" xml:id="A00026-001-a-1980">.</pc>
+       </item>
+       <item xml:id="A00026-e720">
+        <w lemma="5." pos="crd" xml:id="A00026-001-a-1990">5.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2000"/>
+        <w lemma="woodbridge" pos="nn1" xml:id="A00026-001-a-2010">Woodbridge</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2020">.</pc>
+       </item>
+       <item xml:id="A00026-e730">
+        <w lemma="12." pos="crd" xml:id="A00026-001-a-2030">12.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2040"/>
+        <w lemma="Ipfwiche" pos="nn1" xml:id="A00026-001-a-2050">Ipfwiche</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2060">.</pc>
+       </item>
+       <item xml:id="A00026-e740">
+        <w lemma="11." pos="crd" xml:id="A00026-001-a-2070">11.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2080"/>
+        <w lemma="Colchester" pos="nn1" xml:id="A00026-001-a-2090">Colchester</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2100">.</pc>
+       </item>
+       <item xml:id="A00026-e750">
+        <w lemma="7." pos="crd" xml:id="A00026-001-a-2110">7.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2120"/>
+        <w lemma="Wittam" pos="nn1" xml:id="A00026-001-a-2130">Wittam</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2140">.</pc>
+       </item>
+       <item xml:id="A00026-e760">
+        <w lemma="10" pos="crd" xml:id="A00026-001-a-2150">10</w>
+        <w lemma="chemfford" pos="vvb" xml:id="A00026-001-a-2160">Chemfford</w>
+       </item>
+       <item xml:id="A00026-e770">
+        <w lemma="15" pos="crd" xml:id="A00026-001-a-2170">15</w>
+        <w lemma="brentwood" pos="nn1" xml:id="A00026-001-a-2180">Brentwood</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2190">.</pc>
+       </item>
+       <item xml:id="A00026-e780">
+        <figure xml:id="A00026-e790">
+         <head xml:id="A00026-e800">
+          <w lemma="LONDON" pos="nn1" xml:id="A00026-001-a-2200">LONDON</w>
+         </head>
+         <figDesc xml:id="A00026-e810">view of London</figDesc>
+        </figure>
+       </item>
+      </list>
+     </item>
+     <item xml:id="A00026-e820">
+      <list xml:id="A00026-e830">
+       <item xml:id="A00026-e840">
+        <w lemma="12." pos="crd" xml:id="A00026-001-a-2210">12.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2220"/>
+        <w lemma="Dover" pos="nn1" xml:id="A00026-001-a-2230">DOVER</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2240">.</pc>
+       </item>
+       <item xml:id="A00026-e850">
+        <w lemma="12." pos="crd" xml:id="A00026-001-a-2250">12.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2260"/>
+        <w lemma="Canterbary" pos="nn1" xml:id="A00026-001-a-2270">Canterbary</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2280">.</pc>
+       </item>
+       <item xml:id="A00026-e860">
+        <w lemma="8." pos="crd" xml:id="A00026-001-a-2290">8.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2300"/>
+        <w lemma="Stittingborne" pos="nn1" xml:id="A00026-001-a-2310">Stittingborne</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2320">.</pc>
+       </item>
+       <item xml:id="A00026-e870">
+        <w lemma="5." pos="crd" xml:id="A00026-001-a-2330">5.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2340"/>
+        <w lemma="Rochester" pos="nn1" xml:id="A00026-001-a-2350">Rochester</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2360">.</pc>
+       </item>
+       <item xml:id="A00026-e880">
+        <w lemma="6." pos="crd" xml:id="A00026-001-a-2370">6.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2380"/>
+        <w lemma="Gravesend" pos="nn1" reg="Gravesend" xml:id="A00026-001-a-2390">Grauesend</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2400">.</pc>
+       </item>
+       <item xml:id="A00026-e890">
+        <w lemma="12." pos="crd" xml:id="A00026-001-a-2410">12.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2420"/>
+        <w lemma="dartford" pos="nn1" xml:id="A00026-001-a-2430">Dartford</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2440">.</pc>
+       </item>
+       <item xml:id="A00026-e900">
+        <figure xml:id="A00026-e910">
+         <head xml:id="A00026-e920">
+          <w lemma="LONDON" pos="nn1" xml:id="A00026-001-a-2450">LONDON</w>
+         </head>
+         <figDesc xml:id="A00026-e930">view of London</figDesc>
+        </figure>
+       </item>
+      </list>
+     </item>
+     <item xml:id="A00026-e940">
+      <list xml:id="A00026-e950">
+       <item xml:id="A00026-e960">
+        <w lemma="15." pos="crd" xml:id="A00026-001-a-2460">15.</w>
+        <w lemma="rye" pos="n1" xml:id="A00026-001-a-2470">RYE</w>
+       </item>
+       <item xml:id="A00026-e970">
+        <w lemma="11." pos="crd" xml:id="A00026-001-a-2480">11.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2490"/>
+        <w lemma="Plimwell" pos="nn1" xml:id="A00026-001-a-2500">Plimwell</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2510">.</pc>
+       </item>
+       <item xml:id="A00026-e980">
+        <w lemma="7." pos="crd" xml:id="A00026-001-a-2520">7.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2530"/>
+        <w lemma="Tunbridge" pos="nn1" xml:id="A00026-001-a-2540">Tunbridge</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2550">.</pc>
+       </item>
+       <item xml:id="A00026-e990">
+        <w lemma="15." pos="crd" xml:id="A00026-001-a-2560">15.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2570"/>
+        <w lemma="Chiystowe" pos="nn1" xml:id="A00026-001-a-2580">Chiystowe</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2590">.</pc>
+       </item>
+       <item xml:id="A00026-e1000">
+        <figure xml:id="A00026-e1010">
+         <head xml:id="A00026-e1020">
+          <w lemma="LONDON" pos="nn1" xml:id="A00026-001-a-2600">LONDON</w>
+         </head>
+         <figDesc xml:id="A00026-e1030">view of London</figDesc>
+        </figure>
+       </item>
+      </list>
+     </item>
+     <item xml:id="A00026-e1040">
+      <list xml:id="A00026-e1050">
+       <item xml:id="A00026-e1060">
+        <w lemma="8" pos="crd" xml:id="A00026-001-a-2610">8</w>
+        <w lemma="Southampton" pos="nn1" reg="SOUTHAMPTON" xml:id="A00026-001-a-2620">SOVTHAMPTON</w>
+       </item>
+       <item xml:id="A00026-e1070">
+        <w lemma="7." pos="crd" xml:id="A00026-001-a-2630">7.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2640"/>
+        <w lemma="Twifford" pos="nn1" xml:id="A00026-001-a-2650">Twifford</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2660">.</pc>
+       </item>
+       <item xml:id="A00026-e1080">
+        <w lemma="7." pos="crd" xml:id="A00026-001-a-2670">7.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2680"/>
+        <w lemma="Alefford" pos="nn1" xml:id="A00026-001-a-2690">Alefford</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2700">.</pc>
+       </item>
+       <item xml:id="A00026-e1090">
+        <w lemma="6." pos="crd" xml:id="A00026-001-a-2710">6.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2720"/>
+        <w lemma="Alton" pos="nn1" xml:id="A00026-001-a-2730">Alton</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2740">.</pc>
+       </item>
+       <item xml:id="A00026-e1100">
+        <w lemma="7." pos="crd" xml:id="A00026-001-a-2750">7.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2760"/>
+        <w lemma="farnham" pos="nn1" xml:id="A00026-001-a-2770">Farnham</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2780">.</pc>
+       </item>
+       <item xml:id="A00026-e1110">
+        <w lemma="5" pos="crd" xml:id="A00026-001-a-2790">5</w>
+        <w lemma="Gilforde" pos="nn1" xml:id="A00026-001-a-2800">Gilforde</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2810">.</pc>
+       </item>
+       <item xml:id="A00026-e1120">
+        <w lemma="5" pos="crd" xml:id="A00026-001-a-2820">5</w>
+        <w lemma="Riyley" pos="nn1" xml:id="A00026-001-a-2830">Riyley</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2840">.</pc>
+       </item>
+       <item xml:id="A00026-e1130">
+        <w lemma="5." pos="crd" xml:id="A00026-001-a-2850">5.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2860"/>
+        <w lemma="Coveham" pos="nn1" reg="Coveham" xml:id="A00026-001-a-2870">Coueham</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2880">.</pc>
+       </item>
+       <item xml:id="A00026-e1140">
+        <w lemma="5." pos="crd" xml:id="A00026-001-a-2890">5.</w>
+        <w lemma="Kingston" pos="nn1" reg="Kingston" xml:id="A00026-001-a-2900">Kingstone</w>
+       </item>
+       <item xml:id="A00026-e1150">
+        <w lemma="5." pos="crd" xml:id="A00026-001-a-2910">5.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2920"/>
+        <w lemma="Wansworth" pos="nn1" xml:id="A00026-001-a-2930">Wansworth</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2940">.</pc>
+       </item>
+       <item xml:id="A00026-e1160">
+        <figure xml:id="A00026-e1170">
+         <head xml:id="A00026-e1180">
+          <w lemma="LONDON" pos="nn1" xml:id="A00026-001-a-2950">LONDON</w>
+         </head>
+         <figDesc xml:id="A00026-e1190">view of London</figDesc>
+        </figure>
+       </item>
+      </list>
+     </item>
+     <item xml:id="A00026-e1200">
+      <list xml:id="A00026-e1210">
+       <item xml:id="A00026-e1220">
+        <w lemma="12" pos="crd" xml:id="A00026-001-a-2960">12</w>
+        <w lemma="EXCESTER" pos="nn1" xml:id="A00026-001-a-2970">EXCESTER</w>
+        <pc unit="sentence" xml:id="A00026-001-a-2980">.</pc>
+       </item>
+       <item xml:id="A00026-e1230">
+        <w lemma="10." pos="crd" xml:id="A00026-001-a-2990">10.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3000"/>
+        <w lemma="honiton" pos="nn1" xml:id="A00026-001-a-3010">Honiton</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3020">.</pc>
+       </item>
+       <item xml:id="A00026-e1240">
+        <w lemma="6." pos="crd" xml:id="A00026-001-a-3030">6.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3040"/>
+        <w lemma="chard" pos="nn1" xml:id="A00026-001-a-3050">Chard</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3060">.</pc>
+       </item>
+       <item xml:id="A00026-e1250">
+        <w lemma="10." pos="crd" xml:id="A00026-001-a-3070">10.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3080"/>
+        <w lemma="crokhorne" pos="n1" xml:id="A00026-001-a-3090">Crokhorne</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3100">.</pc>
+       </item>
+       <item xml:id="A00026-e1260">
+        <w lemma="12" pos="crd" xml:id="A00026-001-a-3110">12</w>
+        <w lemma="sherborne" pos="nn1" xml:id="A00026-001-a-3120">Sherborne</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3130">.</pc>
+       </item>
+       <item xml:id="A00026-e1270">
+        <w lemma="18." pos="crd" xml:id="A00026-001-a-3140">18.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3150"/>
+        <w lemma="shaftesbury" pos="nn1" xml:id="A00026-001-a-3160">Shaftesbury</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3170">.</pc>
+       </item>
+       <item xml:id="A00026-e1280">
+        <w lemma="15." pos="crd" xml:id="A00026-001-a-3180">15.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3190"/>
+        <w lemma="salesbury" pos="nn1" xml:id="A00026-001-a-3200">Salesbury</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3210">.</pc>
+       </item>
+       <item xml:id="A00026-e1290">
+        <w lemma="16." pos="crd" xml:id="A00026-001-a-3220">16.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3230"/>
+        <w lemma="andover" pos="vvi" reg="Andover" xml:id="A00026-001-a-3240">Andouer</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3250">.</pc>
+       </item>
+       <item xml:id="A00026-e1300">
+        <w lemma="8" pos="crd" xml:id="A00026-001-a-3260">8</w>
+        <w lemma="Basingstoke" pos="nn1" xml:id="A00026-001-a-3270">Basingstoke</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3280">.</pc>
+       </item>
+       <item xml:id="A00026-e1310">
+        <w lemma="8" pos="crd" xml:id="A00026-001-a-3290">8</w>
+        <w lemma="hartleyrow" pos="n1" xml:id="A00026-001-a-3300">Hartleyrow</w>
+       </item>
+       <item xml:id="A00026-e1320">
+        <w lemma="8" pos="crd" xml:id="A00026-001-a-3310">8</w>
+        <w lemma="Bagshott" pos="nn1" xml:id="A00026-001-a-3320">Bagshott</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3330">.</pc>
+       </item>
+       <item xml:id="A00026-e1330">
+        <w lemma="15." pos="crd" xml:id="A00026-001-a-3340">15.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3350"/>
+        <w lemma="Stanes" pos="nn1" xml:id="A00026-001-a-3360">Stanes</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3370">.</pc>
+       </item>
+       <item xml:id="A00026-e1340">
+        <figure xml:id="A00026-e1350">
+         <head xml:id="A00026-e1360">
+          <w lemma="LONDON" pos="nn1" xml:id="A00026-001-a-3380">LONDON</w>
+         </head>
+         <figDesc xml:id="A00026-e1370">view of London</figDesc>
+        </figure>
+       </item>
+      </list>
+     </item>
+     <item xml:id="A00026-e1380">
+      <list xml:id="A00026-e1390">
+       <item xml:id="A00026-e1400">
+        <w lemma="10" pos="crd" xml:id="A00026-001-a-3390">10</w>
+        <w lemma="Bristol" pos="nn1" reg="BRISTOL" xml:id="A00026-001-a-3400">BRISTOW</w>
+       </item>
+       <item xml:id="A00026-e1410">
+        <w lemma="10" pos="crd" xml:id="A00026-001-a-3410">10</w>
+        <w lemma="Marsfeld" pos="nn1" xml:id="A00026-001-a-3420">Marsfeld</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3430">.</pc>
+       </item>
+       <item xml:id="A00026-e1420">
+        <w lemma="4" pos="crd" xml:id="A00026-001-a-3440">4</w>
+        <w lemma="Chipyenham" pos="nn1" xml:id="A00026-001-a-3450">Chipyenham</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3460">.</pc>
+       </item>
+       <item xml:id="A00026-e1430">
+        <w lemma="10." pos="crd" xml:id="A00026-001-a-3470">10.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3480"/>
+        <w lemma="calne" pos="nn1" xml:id="A00026-001-a-3490">Calne</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3500">.</pc>
+       </item>
+       <item xml:id="A00026-e1440">
+        <w lemma="8." pos="crd" xml:id="A00026-001-a-3510">8.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3520"/>
+        <w lemma="Marlborow" pos="nn1" xml:id="A00026-001-a-3530">Marlborow</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3540">.</pc>
+       </item>
+       <item xml:id="A00026-e1450">
+        <w lemma="7." pos="crd" xml:id="A00026-001-a-3550">7.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3560"/>
+        <w lemma="Hungerford" pos="nn1" xml:id="A00026-001-a-3570">Hungerford</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3580">.</pc>
+       </item>
+       <item xml:id="A00026-e1460">
+        <w lemma="15" pos="crd" xml:id="A00026-001-a-3590">15</w>
+        <w lemma="Newberry" pos="nn1" reg="Newberry" xml:id="A00026-001-a-3600">Newbery</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3610">.</pc>
+       </item>
+       <item xml:id="A00026-e1470">
+        <w lemma="10" pos="crd" xml:id="A00026-001-a-3620">10</w>
+        <w lemma="reding" pos="nn1" xml:id="A00026-001-a-3630">Reding</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3640">.</pc>
+       </item>
+       <item xml:id="A00026-e1480">
+        <w lemma="7." pos="crd" xml:id="A00026-001-a-3650">7.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3660"/>
+        <w lemma="Maidenhed" pos="nn1" xml:id="A00026-001-a-3670">Maidenhed</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3680">.</pc>
+       </item>
+       <item xml:id="A00026-e1490">
+        <w lemma="8" pos="crd" xml:id="A00026-001-a-3690">8</w>
+        <w lemma="Colebroke" pos="nn1" xml:id="A00026-001-a-3700">Colebroke</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3710">.</pc>
+       </item>
+       <item xml:id="A00026-e1500">
+        <w lemma="8" pos="crd" xml:id="A00026-001-a-3720">8</w>
+        <w lemma="Brainford" pos="nn1" reg="Brainford" xml:id="A00026-001-a-3730">Bramford</w>
+       </item>
+       <item xml:id="A00026-e1510">
+        <figure xml:id="A00026-e1520">
+         <head xml:id="A00026-e1530">
+          <w lemma="LONDON" pos="nn1" xml:id="A00026-001-a-3740">LONDON</w>
+         </head>
+         <figDesc xml:id="A00026-e1540">view of London</figDesc>
+        </figure>
+       </item>
+      </list>
+     </item>
+    </list>
+    <list xml:id="A00026-e1550">
+     <head xml:id="A00026-e1560">
+      <w lemma="west" pos="n1" xml:id="A00026-001-a-3750">WEST</w>
+     </head>
+     <item xml:id="A00026-e1570">
+      <list xml:id="A00026-e1580">
+       <item xml:id="A00026-e1590">
+        <w lemma="9" pos="crd" reg="9" xml:id="A00026-001-a-3760">9.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3770"/>
+        <w lemma="Hereford" pos="nn1" xml:id="A00026-001-a-3780">HEREFORD</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3790">.</pc>
+       </item>
+       <item xml:id="A00026-e1600">
+        <w lemma="12." pos="crd" xml:id="A00026-001-a-3800">12.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3810"/>
+        <w lemma="Ross" pos="nn1" xml:id="A00026-001-a-3820">Ross</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3830">.</pc>
+       </item>
+       <item xml:id="A00026-e1610">
+        <w lemma="15." pos="crd" xml:id="A00026-001-a-3840">15.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3850"/>
+        <w lemma="Gloucester" pos="nn1" reg="Gloucester" xml:id="A00026-001-a-3860">Glocester</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3870">.</pc>
+       </item>
+       <item xml:id="A00026-e1620">
+        <w lemma="12." pos="crd" xml:id="A00026-001-a-3880">12.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3890"/>
+        <w lemma="Cicester" pos="nn1" reg="Cicester" xml:id="A00026-001-a-3900">Ciceter</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3910">.</pc>
+       </item>
+       <item xml:id="A00026-e1630">
+        <w lemma="10." pos="crd" xml:id="A00026-001-a-3920">10.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3930"/>
+        <w lemma="farington" pos="nn1" xml:id="A00026-001-a-3940">Farington</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3950">.</pc>
+       </item>
+       <item xml:id="A00026-e1640">
+        <w lemma="5." pos="crd" xml:id="A00026-001-a-3960">5.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3970"/>
+        <w lemma="Abington" pos="nn1" xml:id="A00026-001-a-3980">Abington</w>
+        <pc unit="sentence" xml:id="A00026-001-a-3990">.</pc>
+       </item>
+       <item xml:id="A00026-e1650">
+        <w lemma="12." pos="crd" xml:id="A00026-001-a-4000">12.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4010"/>
+        <w lemma="dorchester" pos="nn1" xml:id="A00026-001-a-4020">Dorchester</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4030">.</pc>
+       </item>
+       <item xml:id="A00026-e1660">
+        <w lemma="7." pos="crd" xml:id="A00026-001-a-4040">7.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4050"/>
+        <w lemma="Henly" pos="nn1" reg="Henly" xml:id="A00026-001-a-4060">Henley</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4070">.</pc>
+       </item>
+       <item xml:id="A00026-e1670">
+        <w lemma="7." pos="crd" xml:id="A00026-001-a-4080">7.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4090"/>
+        <w lemma="Maidenhed" pos="nn1" xml:id="A00026-001-a-4100">Maidenhed</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4110">.</pc>
+       </item>
+       <item xml:id="A00026-e1680">
+        <w lemma="8." pos="crd" xml:id="A00026-001-a-4120">8.</w>
+        <w lemma="Colbroke" pos="nn1" xml:id="A00026-001-a-4130">Colbroke</w>
+       </item>
+       <item xml:id="A00026-e1690">
+        <w lemma="8." pos="crd" xml:id="A00026-001-a-4140">8.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4150"/>
+        <w lemma="bramfor" pos="n1" xml:id="A00026-001-a-4160">Bramfor</w>
+        <w cert="medium" lemma="d" pos="sy" rend="sup" type="siglum" xml:id="A00026-001-a-4170">d</w>
+       </item>
+       <item xml:id="A00026-e1710">
+        <figure xml:id="A00026-e1720">
+         <head xml:id="A00026-e1730">
+          <w lemma="LONDON" pos="nn1" xml:id="A00026-001-a-4180">LONDON</w>
+         </head>
+         <figDesc xml:id="A00026-e1740">view of London</figDesc>
+        </figure>
+       </item>
+      </list>
+     </item>
+     <item xml:id="A00026-e1750">
+      <list xml:id="A00026-e1760">
+       <item xml:id="A00026-e1770">
+        <w lemma="12." pos="crd" xml:id="A00026-001-a-4190">12.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4200"/>
+        <w lemma="worcester" pos="nn1" xml:id="A00026-001-a-4210">WORCESTER</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4220">.</pc>
+       </item>
+       <item xml:id="A00026-e1780">
+        <w lemma="13." pos="crd" xml:id="A00026-001-a-4230">13.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4240"/>
+        <w lemma="Euesham" pos="nn1" xml:id="A00026-001-a-4250">Euesham</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4260">.</pc>
+       </item>
+       <item xml:id="A00026-e1790">
+        <w lemma="12." pos="crd" xml:id="A00026-001-a-4270">12.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4280"/>
+        <w lemma="Chippingnorton" pos="nn1" xml:id="A00026-001-a-4290">Chippingnorton</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4300">.</pc>
+       </item>
+       <item xml:id="A00026-e1800">
+        <w lemma="20." pos="crd" xml:id="A00026-001-a-4310">20.</w>
+        <w lemma="Islippe" pos="nn1" xml:id="A00026-001-a-4320">Islippe</w>
+       </item>
+       <item xml:id="A00026-e1810">
+        <w lemma="5." pos="crd" xml:id="A00026-001-a-4330">5.</w>
+        <w lemma="wickam" pos="nn1" xml:id="A00026-001-a-4340">Wickam</w>
+       </item>
+       <item xml:id="A00026-e1820">
+        <w lemma="7." pos="crd" xml:id="A00026-001-a-4350">7.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4360"/>
+        <w lemma="Beconsfeld" pos="nn1" xml:id="A00026-001-a-4370">Beconsfeld</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4380">.</pc>
+       </item>
+       <item xml:id="A00026-e1830">
+        <w lemma="15." pos="crd" xml:id="A00026-001-a-4390">15.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4400"/>
+        <w lemma="Uxbridge" pos="nn1" reg="Uxbridge" xml:id="A00026-001-a-4410">Vxbridge</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4420">.</pc>
+       </item>
+       <item xml:id="A00026-e1840">
+        <figure xml:id="A00026-e1850">
+         <head xml:id="A00026-e1860">
+          <w lemma="LONDON" pos="nn1" xml:id="A00026-001-a-4430">LONDON</w>
+         </head>
+         <figDesc xml:id="A00026-e1870">view of London</figDesc>
+        </figure>
+       </item>
+      </list>
+     </item>
+     <item xml:id="A00026-e1880">
+      <list xml:id="A00026-e1890">
+       <item xml:id="A00026-e1900">
+        <w lemma="14." pos="crd" xml:id="A00026-001-a-4440">14.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4450"/>
+        <w lemma="CHESTER" pos="nn1" xml:id="A00026-001-a-4460">CHESTER</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4470">.</pc>
+       </item>
+       <item xml:id="A00026-e1910">
+        <w lemma="15." pos="crd" xml:id="A00026-001-a-4480">15.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4490"/>
+        <w lemma="Nantwich" pos="nn1" xml:id="A00026-001-a-4500">Nantwich</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4510">.</pc>
+       </item>
+       <item xml:id="A00026-e1920">
+        <w lemma="16." pos="crd" xml:id="A00026-001-a-4520">16.</w>
+        <w lemma="stone" pos="n1" xml:id="A00026-001-a-4530">Stone</w>
+       </item>
+       <item xml:id="A00026-e1930">
+        <w lemma="12." pos="crd" xml:id="A00026-001-a-4540">12.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4550"/>
+        <w lemma="Lichfeld" pos="nn1" xml:id="A00026-001-a-4560">Lichfeld</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4570">.</pc>
+       </item>
+       <item xml:id="A00026-e1940">
+        <w lemma="8." pos="crd" xml:id="A00026-001-a-4580">8.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4590"/>
+        <w lemma="Coushill" pos="nn1" xml:id="A00026-001-a-4600">Coushill</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4610">.</pc>
+       </item>
+       <item xml:id="A00026-e1950">
+        <w lemma="14." pos="crd" xml:id="A00026-001-a-4620">14.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4630"/>
+        <w lemma="Coventry" pos="nn1" reg="Coventry" xml:id="A00026-001-a-4640">Couentry</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4650">.</pc>
+       </item>
+       <item xml:id="A00026-e1960">
+        <w lemma="10." pos="crd" xml:id="A00026-001-a-4660">10.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4670"/>
+        <w lemma="Daintry" pos="nn1" xml:id="A00026-001-a-4680">Daintry</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4690">.</pc>
+       </item>
+       <item xml:id="A00026-e1970">
+        <w lemma="13." pos="crd" xml:id="A00026-001-a-4700">13.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4710"/>
+        <w lemma="towcester" pos="nn1" xml:id="A00026-001-a-4720">Towcester</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4730">.</pc>
+       </item>
+       <item xml:id="A00026-e1980">
+        <w lemma="7." pos="crd" xml:id="A00026-001-a-4740">7.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4750"/>
+        <w lemma="Brickhill" pos="nn1" xml:id="A00026-001-a-4760">Brickhill</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4770">.</pc>
+       </item>
+       <item xml:id="A00026-e1990">
+        <w lemma="10." pos="crd" xml:id="A00026-001-a-4780">10.</w>
+        <w lemma="donstable" pos="n1" xml:id="A00026-001-a-4790">Donstable</w>
+       </item>
+       <item xml:id="A00026-e2000">
+        <w lemma="10." pos="crd" xml:id="A00026-001-a-4800">10.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4810"/>
+        <w lemma="s" pos="sy" xml:id="A00026-001-a-4820">S</w>
+        <w lemma="Albon" pos="nn1" reg="Albon" xml:id="A00026-001-a-4830">Albons</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4840">.</pc>
+       </item>
+       <item xml:id="A00026-e2010">
+        <w lemma="10." pos="crd" xml:id="A00026-001-a-4850">10.</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4860"/>
+        <w lemma="Barnet" pos="nn1" xml:id="A00026-001-a-4870">Barnet</w>
+        <pc unit="sentence" xml:id="A00026-001-a-4880">.</pc>
+       </item>
+       <item xml:id="A00026-e2020">
+        <figure xml:id="A00026-e2030">
+         <head xml:id="A00026-e2040">
+          <w lemma="LONDON" pos="nn1" xml:id="A00026-001-a-4890">LONDON</w>
+         </head>
+         <figDesc xml:id="A00026-e2050">view of London</figDesc>
+        </figure>
+       </item>
+      </list>
+     </item>
+    </list>
+    <p xml:id="A00026-e2060">
+     <w lemma="LONDON" pos="nn1" xml:id="A00026-001-a-4900">LONDON</w>
+    </p>
+   </div>
+  </body>
+  <back xml:id="A00026-e2070">
+   <div type="colophon" xml:id="A00026-e2080">
+    <p xml:id="A00026-e2090">
+     <w lemma="London" pos="nn1" xml:id="A00026-001-a-4910">London</w>
+     <w lemma="print" pos="vvn" xml:id="A00026-001-a-4920">Printed</w>
+     <w lemma="by" pos="acp" xml:id="A00026-001-a-4930">by</w>
+     <w lemma="Walter" pos="nn1" xml:id="A00026-001-a-4940">Walter</w>
+     <w lemma="dight" pos="nn1" xml:id="A00026-001-a-4950">Dight</w>
+     <pc xml:id="A00026-001-a-4960">,</pc>
+     <w lemma="at" pos="acp" xml:id="A00026-001-a-4970">at</w>
+     <w lemma="the" pos="d" xml:id="A00026-001-a-4980">the</w>
+     <w lemma="sign" pos="n1" reg="sign" xml:id="A00026-001-a-4990">signe</w>
+     <w lemma="of" pos="acp" xml:id="A00026-001-a-5000">of</w>
+     <w lemma="the" pos="d" xml:id="A00026-001-a-5010">the</w>
+     <w lemma="harp" pos="n1" reg="Harp" xml:id="A00026-001-a-5020">Harpe</w>
+     <w lemma="in" pos="acp" xml:id="A00026-001-a-5030">in</w>
+     <w lemma="shoo-lane" pos="n1" xml:id="A00026-001-a-5040">shoo-lane</w>
+     <pc unit="sentence" xml:id="A00026-001-a-5050">.</pc>
+    </p>
+   </div>
+  </back>
+ </text>
+</TEI>
